@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://pindie-back.vercel.app//api';
+export const BASE_URL = 'https://pindie-back.vercel.app/api';
 
 export const endpoints = {
     games: `${BASE_URL}/games`,
